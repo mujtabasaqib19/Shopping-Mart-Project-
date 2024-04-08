@@ -1,0 +1,6 @@
+11 eggs 20 500
+13 butter 200 200
+15 cheese 200 400
+16 flour 550 200
+18 kurkury 45 87
+19 lays 40 200

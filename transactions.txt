@@ -1,0 +1,9 @@
+sultan3271  Product:  pencil  Bill:  100RS
+sultan3271  Product:  bounty  Bill:  140RS
+sultan3271  Product:  flour  Bill:  1100RS
+hassan3271  Product:  scale  Bill:  125RS
+sultan3271  Product:  butter  Bill:  1000RS
+aslam54  Product:  HugoBoss  Bill:  18000RS
+sultan3271  Product:  J.Fragtances  Bill:  2000RS
+sultan3271  Product:  sharpner  Bill:  50RS
+sultan3271  Product:  lays  Bill:  200RS

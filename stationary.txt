@@ -1,0 +1,4 @@
+41 pencil 20 500
+42 eraser 10 450
+43 scale 25 550
+44 sharpner 10 600
